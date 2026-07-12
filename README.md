@@ -1,39 +1,21 @@
-# Rehaan Khan
+# 💫 About Me:
+AI engineer building agentic systems — tools, memory, planning, RAG on FastAPI. Open to UAE roles.
 
-**AI Engineer** — building agentic systems: tools, memory, planning, production RAG.
 
-📍 India · Open to UAE / Gulf relocation · Available Q3 2026
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rehaan-khan-0344aa373/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rehaankhan28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ethicalchatbot@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=cognitoserve&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=cognitoserve&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=cognitoserve&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### What I'm working on
-
-- **[Cerebro-API](https://github.com/CognitoServe/Cerebro-API)** — Async, self-hosted agent orchestration layer. FastAPI + `asyncio.gather` concurrent tool execution, per-job RAG memory isolation, Tenacity-backed resilience.
-- **[eval-harness](https://github.com/CognitoServe/eval-harness)** — Golden-suite regression testing for LLM agents. Catches behavioral drift before deploys.
-- **[autonomous-research-agent](https://github.com/CognitoServe/autonomous-research-agent)** — Tool-calling + RAG + memory for deep research workflows.
-
-### Stack
-
-**Languages** — Python 3.12
-**Frameworks** — FastAPI, Pydantic, LangChain
-**AI / LLM** — OpenAI + Anthropic APIs, ChromaDB, custom embedding pipelines, ReAct planning, tool-calling
-**Infra** — Docker, `uv`, Pytest, GitHub Actions
-**Concepts** — agentic architectures, RAG at scale, guardrails (AST allowlists), structured output validation, exponential backoff, async I/O
-
-### Recent experiments
-
-- Quantization benchmark on Qwen2.5-1.5B across 7 levels — Q5_K_M identified as the accuracy/size sweet spot ([qwen-quant-benchmark](https://github.com/CognitoServe/qwen-quant-benchmark))
-- Mechanistic interpretability on GPT-2-small using TransformerLens — Layer 4 Head 11 confirmed as near-perfect previous-token head, Layer 5 Head 5 as strongest induction head candidate
-
-### What I'm looking for
-
-Junior / Applied AI Engineer roles in the UAE — agentic systems, RAG production pipelines, LLM backends. Open to full-time on-site (Dubai / Abu Dhabi) or remote-first with relocation. BFSI, healthcare, and enterprise SaaS domains especially interesting.
-
-### Reach me
-
-- 📧 **ethicalchatbot@gmail.com**
-- 💼 **(https://www.linkedin.com/in/rehaan-khan-0344aa373/)**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=cognitoserve&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<sub>Last updated: July 2026</sub>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
